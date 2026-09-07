@@ -74,7 +74,7 @@ Developed a College Student Portal that provides students with access to academi
 study materials, and extracurricular updates. The platform includes role-based login for students 
 and faculty and provides a user-friendly interface.
 
-🔗 **Project Repository:** [View on GitHub](YOUR_REPOSITORY_LINK)
+🔗 **Project Repository:** [college-students-portal](https://github.com/abhinayaabhi487/college-students-portal)
 
 ### Key Features
 - 📚 Academic schedules
@@ -90,7 +90,7 @@ and faculty and provides a user-friendly interface.
 Created a plant disease detection system using deep learning techniques to analyze leaf images 
 and identify diseases. The system supports early disease detection and precision agriculture.
 
-🔗 **Project Repository:** [View on GitHub](YOUR_REPOSITORY_LINK)
+🔗 **Project Repository:** [Plant-Disease-Detection-Project](https://github.com/abhinayaabhi487/Plant-Disease-Detection-Project)
 
 ### Key Features
 - 🌱 Leaf image analysis
@@ -106,7 +106,7 @@ and identify diseases. The system supports early disease detection and precision
 Developed a real-time groundwater resource evaluation system using DWLR data for continuous 
 monitoring and analysis of groundwater levels, trends, fluctuations, and resource availability.
 
-🔗 **Project Repository:** [View on GitHub](YOUR_REPOSITORY_LINK)
+🔗 **Project Repository:** [realtime-groundwater-evaluation](https://github.com/abhinayaabhi487/realtime-groundwater-evaluation)
 
 ### Key Features
 - 💧 Real-time groundwater monitoring
