@@ -70,48 +70,51 @@ To obtain a challenging position in the field of Computer Science and Engineerin
 
 ## 1️⃣ College Student Portal
 
-### Enhancing Access to Academic and Extracurricular Information
+Developed a College Student Portal that provides students with access to academic schedules, 
+study materials, and extracurricular updates. The platform includes role-based login for students 
+and faculty and provides a user-friendly interface.
 
-Developed a **College Student Portal** that provides students with easy access to academic and extracurricular information.
+🔗 **Project Repository:** [View on GitHub](YOUR_REPOSITORY_LINK)
 
 ### Key Features
-- 📚 Access to academic schedules
+- 📚 Academic schedules
 - 📖 Study materials
 - 🎯 Extracurricular updates
-- 🔐 Role-based login for students and faculty
-- 🤝 Improved communication and information sharing
+- 🔐 Role-based login
+- 🤝 Student-faculty communication
 - 🖥️ User-friendly interface
 
----
 
 ## 2️⃣ Plant Disease Detection Using Deep Learning
 
-Developed a **plant disease detection system** using deep learning techniques to analyze leaf images and identify plant diseases.
+Created a plant disease detection system using deep learning techniques to analyze leaf images 
+and identify diseases. The system supports early disease detection and precision agriculture.
+
+🔗 **Project Repository:** [View on GitHub](YOUR_REPOSITORY_LINK)
 
 ### Key Features
 - 🌱 Leaf image analysis
 - 🤖 Deep learning-based classification
 - 🔍 Disease identification
-- 📊 Image classification model
-- 🌾 Supports early disease detection
-- 🚜 Helps in precision agriculture
+- 📊 Image classification
+- 🌾 Early disease detection
+- 🚜 Precision agriculture
 
----
 
 ## 3️⃣ Realtime Groundwater Resource Evaluation Using DWLR Data
 
-Developed a **real-time groundwater resource evaluation system** using **DWLR (Digital Water Level Recorder) data** for continuous monitoring and analysis.
+Developed a real-time groundwater resource evaluation system using DWLR data for continuous 
+monitoring and analysis of groundwater levels, trends, fluctuations, and resource availability.
+
+🔗 **Project Repository:** [View on GitHub](YOUR_REPOSITORY_LINK)
 
 ### Key Features
 - 💧 Real-time groundwater monitoring
 - 📡 DWLR data processing
 - 📊 Groundwater level analysis
-- 📈 Identifies groundwater trends
-- 🔄 Monitors groundwater fluctuations
-- 🌍 Helps evaluate groundwater resource availability
-
----
-
+- 📈 Groundwater trend identification
+- 🔄 Fluctuation monitoring
+- 🌍 Resource availability evaluation
 # 💼 Internship Experience
 
 ## Full Stack Development Intern
