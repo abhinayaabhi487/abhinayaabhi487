@@ -115,6 +115,49 @@ monitoring and analysis of groundwater levels, trends, fluctuations, and resourc
 - 📈 Groundwater trend identification
 - 🔄 Fluctuation monitoring
 - 🌍 Resource availability evaluation
+# 🚀 Additional Projects
+
+## 📇 Contact Management System
+
+A simple contact management project developed to store and manage contact information efficiently. The project focuses on organizing contact details and providing an easy way to manage them.
+
+### Key Features
+- 📇 Manage contact information
+- ➕ Add contact details
+- 🔍 Access stored contacts
+- 🗂️ Organize contact records
+- 🖥️ Simple and user-friendly interface
+
+🔗 **Project Repository:** [contact-management](https://github.com/abhinayaabhi487/contact-management)
+
+---
+
+## 🍱 Online Canteen Billing System
+
+An online canteen billing project developed to support canteen billing activities through a simple web-based interface.
+
+### Key Features
+- 🍽️ Canteen-related billing management
+- 🧾 Generate and manage billing information
+- 💻 Simple web-based interface
+- 📋 Easy handling of canteen transactions
+
+🔗 **Project Repository:** [Online-canteen-billing-System](https://github.com/abhinayaabhi487/Online-canteen-billing-System)
+
+---
+
+## 📢 Online Complaint Management System
+
+A web-based complaint management project designed to provide a structured platform for handling and managing online complaints.
+
+### Key Features
+- 📝 Online complaint submission
+- 📋 Complaint management
+- 🔎 Easy access to complaint information
+- 💻 Web-based interface
+- ⚡ Simplifies complaint handling
+
+🔗 **Project Repository:** [online-complaint-management-system](https://github.com/abhinayaabhi487/online-complaint-management-system)
 # 💼 Internship Experience
 
 ## Full Stack Development Intern
